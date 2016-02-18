@@ -1,3 +1,4 @@
+<?php 
 while (true) {
   $line = trim(fgets(STDIN));
   if($line == 'quit'){
@@ -13,3 +14,4 @@ huga
 string(4) "huga"
 quit
 */
+?>
