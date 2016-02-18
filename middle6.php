@@ -1,3 +1,5 @@
+<?php 
+
 // カード4枚を入力
 $input = fgets(STDIN);
 
@@ -82,3 +84,4 @@ FourCard
 ABBC
 OnePair
 */
+?>
