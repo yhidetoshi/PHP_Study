@@ -1,3 +1,4 @@
+<?php 
 $input_num = fgets(STDIN);
 echo abs($input_num);
 print(PHP_EOL);
@@ -6,3 +7,4 @@ print(PHP_EOL);
 -15
 15
 */
+?>
