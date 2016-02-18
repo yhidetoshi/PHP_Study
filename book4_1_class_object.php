@@ -6,7 +6,7 @@ class Employee
 	public $state = 'working_now';
 
 	// privateなのでクラスの内部からしかアクセスできない
-	private $state = 'working_now';
+	// private $state = 'working_now';
 
 	public function work()
 	{
