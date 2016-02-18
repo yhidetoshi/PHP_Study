@@ -1,3 +1,5 @@
+<?php 
+
 //当選番号の入力
 $num_atari_s = fgets(STDIN);
 $front = $num_atari_s - 1;
@@ -70,3 +72,4 @@ blank
 third
 adjacent
 */
+?>
