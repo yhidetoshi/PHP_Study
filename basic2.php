@@ -1,3 +1,4 @@
+<?php 
 $in_m_p_q =fgets(STDIN);
 $m_p_q = explode(" ",$in_m_p_q);
 
@@ -9,3 +10,4 @@ echo(PHP_EOL);
 15 20 30
 8.4
 */
+?>
