@@ -1,3 +1,4 @@
+<?php 
 //変換される対象の文字列
 $input_stinrg = fgets(STDIN);
 
@@ -27,3 +28,4 @@ echo preg_replace($patterns, $replacements, $input_stinrg);
 HERO
 H3R0
 */
+?>
