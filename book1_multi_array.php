@@ -1,3 +1,5 @@
+<?php
+
 //多次元配列
 $fruits = array(
 	'apple' => array(
