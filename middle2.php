@@ -1,3 +1,5 @@
+<?php 
+
 //イベント回数と人数を入力
 $input = fgets(STDIN);
 $input_N_M = explode(" ",$input);
@@ -53,3 +55,4 @@ echo (PHP_EOL);
 0 -15 1 10
 0
 */
+?>
