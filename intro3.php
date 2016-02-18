@@ -1,3 +1,4 @@
+<?php 
 $header = trim(fgets(STDIN));
 $footer = trim(fgets(STDIN));
 
@@ -8,3 +9,4 @@ hoge
 huga
 hoge@huga
 */
+?>
