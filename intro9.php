@@ -1,3 +1,5 @@
+<?php
+
 $input = fgets(STDIN);
 $max_num = mb_strlen($input, "UTF-8");
 if($max_num >= 1 && $max_num <=100){
@@ -8,3 +10,4 @@ if($max_num >= 1 && $max_num <=100){
 hide
 HIDE
 */
+?>
