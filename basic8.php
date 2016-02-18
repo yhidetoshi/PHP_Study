@@ -1,3 +1,5 @@
+<?php 
+
 //初期情報を入力
 $input = fgets(STDIN);
 $input_info = explode(" ",$input);
@@ -49,3 +51,4 @@ yes
 no
 no
 */
+?>
