@@ -1,3 +1,4 @@
+<?php 
 for($i = 0; $i < 5; $i++){
 $inp_num[$i] = fgets(STDIN);
 	if($inp_num[$i] > 0 && $inp_num[$i] < 100 ){
@@ -22,3 +23,4 @@ print(PHP_EOL);
 30
 2
 */
+?>
