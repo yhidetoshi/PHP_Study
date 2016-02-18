@@ -1,5 +1,7 @@
+<?php
+
 //N行指定
-$N = fgets(STDIN);
+$N =fgets(STDIN);
 
 //N行文回す
 for( $in_l = 0; $in_l < $N; $in_l++ )
@@ -49,3 +51,4 @@ echo(PHP_EOL);
 11 13 14 10
 11 13 17 8
 */
+?>
