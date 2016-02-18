@@ -1,3 +1,5 @@
+<?php
+
 //a,b,Rの入力がスペース区切りなので下記で処理
 $in_a_b_R_i =fgets(STDIN);
 $in_a_b_R = explode(" ",$in_a_b_R_i);
@@ -43,3 +45,5 @@ noisy
 noisy
 silent
 */
+
+?>
