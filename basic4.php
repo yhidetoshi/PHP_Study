@@ -1,3 +1,5 @@
+<?php
+
 //親カード入力
 $num_oya_input = fgets(STDIN);
 
@@ -69,3 +71,4 @@ for($j = 0; $j < $N; $j++ )
 Low
 High
 */
+?>
