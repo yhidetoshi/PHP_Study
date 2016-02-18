@@ -1,3 +1,4 @@
+<?php
 //string型
 $num = fgets(STDIN);
 //string型からint型に変換
@@ -26,3 +27,4 @@ hoge
 huga
 Hello hoge,huga.
 */
+?>
