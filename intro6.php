@@ -1,3 +1,5 @@
+<?php
+
 //標準入力を格納
 	$line = fgets(STDIN);
 	
@@ -26,3 +28,4 @@
 hoge 2
 o
 */
+?>
