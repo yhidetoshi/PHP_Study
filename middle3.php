@@ -1,3 +1,5 @@
+<?php 
+
 //w h nの値を与える
 $input_w_h_n = fgets( STDIN );
 $input_whn = explode(" ",$input_w_h_n);
@@ -105,3 +107,4 @@ R 3
 D 2
 0 2
 */
+?>
