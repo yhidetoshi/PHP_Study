@@ -62,3 +62,6 @@
   - $_GET/$_POST/$_FILES/$_COOKIE/$_REQUEST/$_SERVER/$_ENV/$_SESSION/
   
 ### webフレームワーク
+  - URL
+    - ベースURL : ホスト部分より後ろから,フロントコントローラまての値かべースURL
+    - PATH_INFO : PATH_INFO はべースURLより後ろの値
