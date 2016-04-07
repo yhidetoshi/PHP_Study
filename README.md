@@ -1,6 +1,6 @@
 # study_php
 
-![Alt Text](https://github.com/yhidetoshi/Pictures/raw/master/PHP_Study/php-logo.jpg)
+![Alt Text](https://github.com/yhidetoshi/Pictures/raw/master/PHP_Study/php_logo.jpg)
 
 ### プログラム
 - レベル別プログラム
